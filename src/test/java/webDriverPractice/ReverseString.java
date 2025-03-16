@@ -1,5 +1,5 @@
 package webDriverPractice;
-
+// Codee to reverse a String
 public class ReverseString {
 
 	public static void main(String[] args) {
@@ -8,6 +8,7 @@ public class ReverseString {
 				for(int i=strRev.length()-1;i>=0;i--)
 				{
 					System.out.print(strRev.charAt(i));
+					
 					
 				}
 	}
